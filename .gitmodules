@@ -1,0 +1,3 @@
+[submodule "testmain"]
+	path = testmain
+	url = https://github.com/goodhorce/testmain.git
